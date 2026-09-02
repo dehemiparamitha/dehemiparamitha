@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dehemi Paramitha</h1>
 
 <p align="center">
-  <b>IT Undergraduate at University of Moratuwa</b>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/dehemi-paramitha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=dehemiparamitha&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="dehemiparamitha" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=IT+Undergraduate;Full+Stack+Developer;Building+Real-World+Systems" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,52 +10,51 @@
 
 <p align="center">
   IT undergraduate passionate about <b>Software Engineering, Full-Stack Development, Cloud Technologies, and AI</b>.
-  <br/>
+  <br />
   I enjoy building practical applications and continuously exploring modern web architectures.
 </p>
 
 ---
 
-<h3 align="center">🛠️ Languages & Technologies</h3>
+## 📫 Connect with Me
 
-<p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Let's+connect+and+build+something!;Open+to+collaborations" alt="Connect Typing SVG" />
 </p>
 
-<p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <a href="mailto:dehemiparamitha21@gmail.com"><img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/dehemiparamitha"><img src="https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/dehemi-paramitha-03a329357"><img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p align="center"><b>Backend</b></p>
+---
+
+## 🛠️ Languages & Technologies
+
+### Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,ts" alt="Languages" />
 </p>
 
-<p align="center"><b>Databases</b></p>
+### Frontend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
 </p>
 
-<p align="center"><b>Cloud & Tools</b></p>
+### Backend
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi" alt="Backend" />
+</p>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases" />
+</p>
+
+### Cloud & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,git" alt="Cloud and Tools" />
 </p>
 
 ---
@@ -76,6 +68,10 @@
 ---
 
 <p align="center">
-  <i>Always learning. Always building. Always improving. 🚀</i><br/>
+  <img src="https://komarev.com/ghpvc/?username=dehemiparamitha&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>Always learning. Always building. Always improving. 🚀</i><br />
   <b>Thanks for visiting my profile! ✨</b>
 </p>
